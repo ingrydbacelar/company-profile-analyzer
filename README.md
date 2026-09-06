@@ -28,17 +28,17 @@ A solução utiliza **Google Apps Script** integrado à **API do Gemini** para p
 
 ## Código
 
-Uma versão demonstrativa do código utilizado no projeto está disponível para consulta:
+O código utilizado no projeto está disponível para consulta:
 
-[📄 Visualizar código](Code.gs)
-
-> O código original não é disponibilizado integralmente por conter lógica proprietária.
+<p align="center">
+  <a href="Code.gs">
+    <img src="https://img.shields.io/badge/📄%20Visualizar%20código-166534?style=for-the-badge&logoColor=white" alt="Visualizar código">
+  </a>
+</p>
 
 ## Demonstração
 
 O projeto foi desenvolvido para funcionar diretamente no **Google Sheets**, utilizando Google Apps Script para executar os processos de automação e a API do Gemini para realizar as análises.
-
-> A versão disponibilizada neste repositório tem como objetivo apresentar o projeto para fins de demonstração e portfólio. A implementação original e alguns de seus componentes não estão disponíveis neste repositório.
 
 ## Autora
 
